@@ -1,0 +1,19 @@
+input{
+    margin: 5px;
+}
+button{
+    background-color: rgb(219, 195, 178);
+    margin: 5px;
+    border: none;
+    border-radius: 20%;
+    padding: 1%;
+}
+
+#login{
+    margin-right: 20px;
+}
+
+div{
+    text-align: center;
+    background-color: burlywood;
+}
